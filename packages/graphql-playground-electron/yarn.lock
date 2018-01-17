@@ -8089,9 +8089,9 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
-wait-on@2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/wait-on/-/wait-on-2.0.2.tgz#0a84fd07024c6fc268cb0eabe585be217aaf2baa"
+wait-on@2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/wait-on/-/wait-on-2.1.0.tgz#3c4ace1f57266ca5be7fa25e0c15803b889ca46a"
   dependencies:
     core-js "^2.4.1"
     joi "^9.2.0"
