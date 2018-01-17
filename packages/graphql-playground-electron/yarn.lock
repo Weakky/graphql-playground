@@ -3477,19 +3477,11 @@ graphcool-tmp-ui@^0.0.11:
     graphcool-styles "^0.1.31"
     react-modal "^1.6.5"
 
-graphcool-ui@0.0.14:
+graphcool-ui@0.0.14, graphcool-ui@^0.0.14:
   version "0.0.14"
   resolved "https://registry.yarnpkg.com/graphcool-ui/-/graphcool-ui-0.0.14.tgz#f3c83f4fef2c862ee899618cb6654af2c8f638b6"
   dependencies:
     classnames "^2.2.5"
-    react-modal "^1.6.5"
-
-graphcool-ui@^0.0.13:
-  version "0.0.13"
-  resolved "https://registry.yarnpkg.com/graphcool-ui/-/graphcool-ui-0.0.13.tgz#087b3da14c18746f05e840a6621ff14dadf198c7"
-  dependencies:
-    classnames "^2.2.5"
-    graphcool-styles "^0.1.31"
     react-modal "^1.6.5"
 
 graphcool-yml@0.4.8:
